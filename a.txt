@@ -1,1 +1,0 @@
-angular is frame work for frontend 
